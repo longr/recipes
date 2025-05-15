@@ -5,4 +5,5 @@
 * olive oil
 * salt
 * roasted peppers
+* tahini
 
